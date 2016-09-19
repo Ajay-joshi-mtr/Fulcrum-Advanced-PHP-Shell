@@ -1,0 +1,87 @@
+
+_______ _     _        _______  ______ _     _ _______       _____  _     _  _____       _______ _     _ _______
+|______ |     | |      |       |_____/ |     | |  |  |      |_____] |_____| |_____]      |______ |_____| |______ |      |
+|       |_____| |_____ |_____  |    \_ |_____| |  |  |      |       |     | |            ______| |     | |______ |_____ |_____
+
+                                                    By Anthrax and Drigg3r
+                                                          Osmium Group
+
+
+
+
+
+This is the FULCRUM Standard Edition
+
+FULCRUM PHP Web Shell is meant to be used as a silent remote management on post exploited web servers running php.
+
+FULCRUM if configured correctly is uncopyable as your shell is AES encrypted and most SYS ADMINS will not comprehend this web shell.
+
+FULCRUM is FUD (Fully UnDetectable). If it isn’t, then someone leaked it to AV vendors.
+
+Enjoy The Shell, By using this shell, Nobody will be able to copy your shell-source as it is encrypted in AES-256-CBC
+
+Except for main.php, everything else should be saved as a text file.
+
+Never ever scan this web shell.
+
+-----------------------------------------------------------------------------------------------
+
+TWO VERSIONS:
+
+Their are two different versions of this shell
+
+Folder: Fulcrum-1(Embed)
+In "Embed" version, you can just backdoor any php file on the server by embeding the main.php code in it and to use it, you will need to send a 'Unlock" POST request and then the key and iv, More instructions in the folder
+
+Folder: Fulcrum-1(404)
+In the Second Version, You can upload your main.php file on the webserver, The shell will give a error 404 page until you send it the right "key" and "IV". More instructions in folder
+
+-----------------------------------------------------------------------------------------
+
+ENCRYPT YOUR OWL SHELL:
+
+Run the Encryter.php on a webserver and enter the appropriate values and click submit, You will then see the encrypted source of your shell
+
+----------------------------------------------------------------------------------------
+
+If you are smart enough, you can embed these shells in exif data and make full use of the small size
+
+---------------------------------------------------------------------------------------
+
+The folder "Encrypted Shells" Hold some of the shells encrypted by Encrypter.php with appropriate keys, you can use then also
+
+---------------------------------------------------------------------------------------
+You can use the "Unlocker.html" to send POST requests to your shell with appropriate Key and IV values(You will send the send the requests Twice in "Embed" in order to work)
+You will also need to refresh the page after sending the request for your shell to appear
+
+------------------------------------------------------------------------------------
+
+Enjoy,
+
+Osmium Group
+
+Coded by Drigg3r and Anthrax
+
+For Inquiries:
+
+
+Anthrax:
+XMPP: webshell@wtfismyip.com
+
+Ssnague:
+XMPP: snipersnague@xmpp.jp
+
+
+http://website.com/shell.php
+POST: key=<Your Key>&iv=<Your IV>
+
+Example:
+
+http://website.com/shell.php
+POST: key=yourkey&iv=youriv
+
+
+
+
+
+
