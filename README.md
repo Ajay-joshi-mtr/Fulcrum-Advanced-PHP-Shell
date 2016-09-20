@@ -13,5 +13,4 @@ Thanks for using Fulcrum PHP Shell
 
 Conatct us at
 
-XMPP: SniperSnague@xmpp.jp
-XMPP: webshell@wtfismyip.com
+Email:drigg3r@yandex.com
