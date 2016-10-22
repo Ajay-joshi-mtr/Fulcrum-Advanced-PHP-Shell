@@ -53,7 +53,7 @@ $iv = $_POST['iv'];
 
 if (isset($_POST['SHELL'])){
 $decrypt_txt = file_get_contents($shell); 
-$encrypt_txt = encrypt_decrypt('encrypt', $encrypt_txt, $key, $iv);
+$encrypt_txt = encrypt_decrypt('encrypt', $decrypt_txt, $key, $iv);
 
 echo "$encrypt_txt";
 }
