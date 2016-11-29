@@ -6,7 +6,6 @@ _______ _     _        _______  ______ _     _ _______       _____  _     _  ___
 |       |_____| |_____ |_____  |    \_ |_____| |  |  |      |       |     | |            ______| |     | |______ |_____ |_____
 
                                                     By Anthrax and Drigg3r
-                                                          Osmium Group
 
 */
 function encrypt_decrypt($action, $string, $secret_key, $secret_iv) {
