@@ -1,7 +1,6 @@
 # Fulcrum-Advanced-PHP-Shell
 
                                                     By Anthrax and Drigg3r
-                                                          Osmium Group
 
 This Shell is like an outer cover for your PHP webshells, to protect them from being copied and detected
 
