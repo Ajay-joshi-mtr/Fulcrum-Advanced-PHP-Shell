@@ -1,6 +1,6 @@
 These are some examples of AES encrypted shells with they keys and IV's given
 
-Sniper Snague Shell:
+Shell1:
 key: hackedbyssnague
 iv: lmao
 
