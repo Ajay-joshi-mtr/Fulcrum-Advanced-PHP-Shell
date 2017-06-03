@@ -16,13 +16,9 @@ FULCRUM PHP Web Shell is meant to be used as a silent remote management on post 
 
 FULCRUM if configured correctly is uncopyable as your shell is AES encrypted and most SYS ADMINS will not comprehend this web shell.
 
-FULCRUM is FUD (Fully UnDetectable). If it isn’t, then someone leaked it to AV vendors.
-
 Enjoy The Shell, By using this shell, Nobody will be able to copy your shell-source as it is encrypted in AES-256-CBC
 
 Except for main.php, everything else should be saved as a text file.
-
-Never ever scan this web shell.
 
 -----------------------------------------------------------------------------------------------
 
@@ -42,10 +38,6 @@ ENCRYPT YOUR OWL SHELL:
 
 Run the Encryter.php on a webserver and enter the appropriate values and click submit, You will then see the encrypted source of your shell
 
-----------------------------------------------------------------------------------------
-
-If you are smart enough, you can embed these shells in exif data and make full use of the small size
-
 ---------------------------------------------------------------------------------------
 
 The folder "Encrypted Shells" Hold some of the shells encrypted by Encrypter.php with appropriate keys, you can use then also
@@ -58,9 +50,7 @@ You will also need to refresh the page after sending the request for your shell 
 
 Enjoy,
 
-Osmium Group
-
-Coded by Drigg3r and Anthrax
+Coded by Drigg3r
 
 For Inquiries:
 
