@@ -9,7 +9,3 @@ We have used some special methods to reduce the size of every webshell to less t
 Refer to instructions.txt for all the shell instructions
 
 Thanks for using Fulcrum PHP Shell
-
-Conatct us at
-
-Email:drigg3r@yandex.com
